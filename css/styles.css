@@ -481,7 +481,6 @@ header {
   flex-direction: row;
   justify-content: flex-start;
   align-items: baseline;
-  gap: 120px;
 }
 
 .footer-logo-container {
